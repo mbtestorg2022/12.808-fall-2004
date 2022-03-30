@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: Supporting MATLAB? file for special lecture.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/1e379c6dee417b45741e6d6aad3e80c1_coriolis.m
+file_type: text/plain
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: ef93ed20-a1f6-8ea8-7852-0c708fa9bcf9
+resourcetype: Other
+title: coriolis.m
+uid: 1e379c6d-ee41-7b45-741e-6d6aad3e80c1
+---
